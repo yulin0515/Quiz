@@ -1,0 +1,26 @@
+html,body{	margin:0 auto;height:100%;}
+html {min-width:970px;}
+h1{text-align:center;font-size:33px; line-height:39px;}
+body {background:url(../image/bg2.jpg) repeat-x center 0;;font-family:Arial, Helvetica, sans-serif;font-size:100%;line-height:1em;color:#4e4e4e;min-width:1000px}
+.q {
+	text-align:center;
+	color:red;
+	font-size:27px; line-height:32px;
+	}
+.c {
+	text-align:center;
+	color:yellow;
+	font-size:18px; line-height:22px;
+	}
+	
+.button {
+	display:inline-block;
+	font-size:22px;
+	line-height:22px;
+	padding:5px 14px 6px 14px;
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	text-decoration:none;
+	text-shadow:1px 1px #e36f15;
+	border-radius:6px;
+}
